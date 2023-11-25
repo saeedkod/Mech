@@ -20,6 +20,6 @@ import work_img_6 from "../assets/images/work_img_6.jpg";
 import subscribe_background from "../assets/images/subscribe_background.jpeg";
 
 const images = {
-    header_background, pattern_00, pattern_1, services_img_1, services_img_2, services_img_3, services_img_4, services_img_5, services_img_6, stat_img_1, stat_img_2, stat_img_3, stat_img_4,  work_img_1, work_img_2, work_img_3, work_img_4, work_img_5, work_img_6, About_Alex, subscribe_background
+    header_background, pattern_00, pattern_1, services_img_1, services_img_2, services_img_3, services_img_4, services_img_5, services_img_6, stat_img_1, stat_img_2, stat_img_3, stat_img_4,  work_img_1, work_img_2, work_img_3, work_img_4, work_img_5, work_img_6, subscribe_background
 }
 export default images;
