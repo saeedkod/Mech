@@ -17,7 +17,6 @@ import work_img_3 from "../assets/images/work_img_3.jpg";
 import work_img_4 from "../assets/images/work_img_4.jpg";
 import work_img_5 from "../assets/images/work_img_5.jpg";
 import work_img_6 from "../assets/images/work_img_6.jpg";
-import About_Alex from "../assets/images/About_Alex.jpg";
 import subscribe_background from "../assets/images/subscribe_background.jpeg";
 
 const images = {
